@@ -2,8 +2,7 @@
 % eprime file (saved as .xls), and will generate EV's for each condition.
 % It needs to be modifed for each experiment, as the indicators for
 % conditions and the column name that is associated with the trial onset
-% will be different from experiment to experiment. Wrote Jan 9, 2014 by Ed
-% O'Neil
+% will be different from experiment to experiment.
 
 clear all
 trial_number = 256 ; %number of trials
